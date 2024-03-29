@@ -11,6 +11,9 @@ public class MyMap<K, V> {
         values = new ArrayList<>();
     }
 
+    // SIR! THIS IS MINDBLOWING
+    // HI SIR!
+
     public void put(K key, V value) {
         int index = keys.indexOf(key);
         if (index != -1) {

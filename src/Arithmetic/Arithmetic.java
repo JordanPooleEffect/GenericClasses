@@ -9,6 +9,9 @@ public class Arithmetic {
         this.n2 = num2;
     }
 
+    // SIR! THIS IS MINDBLOWING
+    // HI SIR!
+
     public double add() {
         return n1.doubleValue() + n2.doubleValue();
     }
